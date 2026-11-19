@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# react
+
+<sub>The library for web and native user interfaces.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | react |
+| Primary language | JavaScript |
+| Topics | frontend, javascript, library, react, ui |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+react is a hands-on repository focused on: The library for web and native user interfaces.. Primary language: JavaScript. Topics: frontend, javascript, library, react, ui. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
